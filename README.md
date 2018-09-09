@@ -1,8 +1,12 @@
 # PixelBot
+What's New? (version 6.1.1)
+- Auto Buff with user's input. (DK only)
+- Auto Change Channel with user's input.
+- Auto Tutorial LV.1-3 is disabled until next update.
+- Auto Close POP-UP. (Beta)
+- Skillpoints adding is more stable. (Beta)
+- [-PLEASE KEEP YOUR "Key.lic"-] 
+- Move "Key.lic" to latest version of bot folder.
+- [-PLEASE REMEMBER-]
+- Rename your Nox to something like ie. Nox_01, Nox_02.
 
-What's new?
-- Update launcher to version 6.0
-- New UI
-- Added multi-instance
-![capture](https://user-images.githubusercontent.com/42865174/44909170-837c1d80-ad48-11e8-8bee-4914d81da585.PNG)
-![Alt vmware](https://github.com/liangxiao3/redhat_note/blob/master/pic/basic_vmware.jpg "vmware tool")
